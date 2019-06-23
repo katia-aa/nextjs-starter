@@ -1,0 +1,32 @@
+{
+  "name": "next-koji",
+  "version": "1.0.0",
+  "description": "Next.js starter template for Koji",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kamir222/nextjs-starter.git"
+  },
+  "keywords": [
+    "starter",
+    "template",
+    "nextjs",
+    "react"
+  ],
+  "author": "katia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamir222/nextjs-starter/issues"
+  },
+  "homepage": "https://github.com/kamir222/nextjs-starter#readme",
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
